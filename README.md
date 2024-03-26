@@ -1,0 +1,2 @@
+# Decentralized-Social-Impact-Investment
+構築WEB3ベースのプラットフォームにより、個人が社会的影響力のあるプロジェクトに投資し、ポジティブな変化を生み出すことができます。
